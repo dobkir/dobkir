@@ -1,7 +1,7 @@
 # Hello! Welcome to my GitHub!
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdobkir%2Fhit-counter&count_bg=%2370C956&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-![follower](https://img.shields.io/github/followers/dobkir?color=70C956&label=Follw&logo=GitHub&logoColor=FFF)
-![GitHub User's stars](https://img.shields.io/github/stars/dobkir?affiliations=OWNER%2CCOLLABORATOR&style=social)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdobkir%2Fhit-counter&count_bg=%2370C956&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)&nbsp;
+![follower](https://img.shields.io/github/followers/dobkir?color=70C956&label=Follow&logo=GitHub&logoColor=FFF)&nbsp;
+![GitHub User's stars](https://img.shields.io/github/stars/dobkir?affiliations=OWNER%2CCOLLABORATOR&style=social)&nbsp;
 ---
 
 <!---
@@ -24,8 +24,8 @@ You can click the Preview link to take a look at your changes.
 ## My specialization is Web Development. I live and work in this industry.
 ## Basic skills:
 - Main Languages<br>
-[![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=for-the-badge&logo=JavaScript&logoColor=000)](https://javascript.info/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=for-the-badge&logo=JavaScript&logoColor=000)](https://javascript.info/)&nbsp;
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)&nbsp;
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
 
 ---
@@ -43,12 +43,7 @@ You can click the Preview link to take a look at your changes.
 ## Repositories
 |Repo-name|LNG CNT|Top Language|Repo-size|Commit in Week|Last commit|
 |:---|:---|:---|:---|:---|:---|
-|[travel_landing](https://github.com/dobkir/travel_landing)
-|![count](https://img.shields.io/github/languages/count/dobkir/travel_landing)
-|![top](https://img.shields.io/github/languages/top/dobkir/travel_landing)
-|![repo-size](https://img.shields.io/github/repo-size/dobkir/travel_landing)
-|![commit](https://img.shields.io/github/commit-activity/w/dobkir/travel_landing)
-|![last-commit](https://img.shields.io/github/last-commit/dobkir/travel_landing)|
+|[travel_landing](https://github.com/dobkir/travel_landing)|![count](https://img.shields.io/github/languages/count/dobkir/travel_landing)|![top](https://img.shields.io/github/languages/top/dobkir/travel_landing)|![repo-size](https://img.shields.io/github/repo-size/dobkir/travel_landing)|![commit](https://img.shields.io/github/commit-activity/w/dobkir/travel_landing)|![last-commit](https://img.shields.io/github/last-commit/dobkir/travel_landing)|
 
 ---
 
