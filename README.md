@@ -21,12 +21,17 @@ You can click the Preview link to take a look at your changes.
 
 --->
 
-## My specialization is Web Development. I live and work in this industry.
+## My specialization is Web Development. I live and work in this industry and I am open to cooperation and suggestions.
 ## Basic skills:
 - Main Languages<br>
 [![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=for-the-badge&logo=JavaScript&logoColor=000)](https://javascript.info/)&nbsp;
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)&nbsp;
+
+- Extra skills<br>
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
+[![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=HTML5&logoColor=000)](https://www.w3.org/TR/html52/)&nbsp;
+[![CSS3](https://img.shields.io/badge/CSS3-563d7c?style=for-the-badge&logo=CSS3&logoColor=fff)](https://www.w3.org/Style/CSS/)&nbsp;
+[![Sass](https://img.shields.io/badge/Sass-bf4080?style=for-the-badge&logo=Sass&logoColor=fff)](https://sass-lang.com/)&nbsp;
 
 ---
 
@@ -48,6 +53,6 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## Links
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555)](https://www.linkedin.com/in/pavel-kirillov-dobkir)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555)](https://www.linkedin.com/in/pavel-kirillov-dobkir)&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:p.kirillov2020@gmail.com)](mailto:p.kirillov2020@gmail.com)
 
