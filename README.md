@@ -44,10 +44,10 @@ You can click the Preview link to take a look at your changes.
 [![Gulp](https://img.shields.io/badge/Gulp-fa383e?style=for-the-badge&logo=Gulp&logoColor=fff)](https://gulpjs.com/)
 
 ---
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dobkir&show_icons=true&bg_color=65,aff49b,70c956,1c6907&title_color=04548b&text_color=e3f08f&border_radius=10&layout=compact" height="160px" />&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dobkir&show_icons=true&bg_color=55,70c956,1c6907&title_color=04548b&text_color=e3f08f&border_radius=10&layout=compact" height="160px") />
-</p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=dobkir&show_icons=true&bg_color=65,aff49b,70c956,1c6907&title_color=04548b&text_color=e3f08f&border_radius=10&layout=compact" height="160px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dobkir&show_icons=true&bg_color=55,70c956,1c6907&title_color=04548b&text_color=e3f08f&border_radius=10&layout=compact" height="160px" />
+
 ---
 
 ## Links
@@ -57,7 +57,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## Repositories
-Websites without using task runners or frameworks
+###Websites without using task runners or frameworks
 |Repo-name|Languages count|Top Language|Repo-size|Commit in Week|Last commit|
 |:-------:|:-----:|:----------:|:-------:|:------------:|:---------:|
 |[travel_landing](https://github.com/dobkir/travel_landing)|![count](https://img.shields.io/github/languages/count/dobkir/travel_landing)|![top](https://img.shields.io/github/languages/top/dobkir/travel_landing)|![repo-size](https://img.shields.io/github/repo-size/dobkir/travel_landing)|![commit-activity](https://img.shields.io/github/commit-activity/m/dobkir/travel_landing)|![last-commit](https://img.shields.io/github/last-commit/dobkir/travel_landing)|
