@@ -45,8 +45,10 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
+<p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=dobkir&show_icons=true&bg_color=65,aff49b,70c956,1c6907&title_color=04548b&text_color=e3f08f&border_radius=10&layout=compact" height="160px" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dobkir&show_icons=true&bg_color=55,70c956,1c6907&title_color=04548b&text_color=e3f08f&border_radius=10&layout=compact" height="160px" />
+</p>
 
 ---
 
