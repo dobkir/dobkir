@@ -1,7 +1,7 @@
 # Hello! Welcome to my GitHub!
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdobkir%2Fhit-counter&count_bg=%2370C956&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)&nbsp;
 ![follower](https://img.shields.io/github/followers/dobkir?color=70C956&label=Follow&logo=GitHub&logoColor=FFF)&nbsp;
-![GitHub User's stars](https://img.shields.io/github/stars/dobkir?affiliations=OWNER%2CCOLLABORATOR&style=social)&nbsp;
+![GitHub User's stars](https://img.shields.io/github/stars/dobkir?color=70C956&label=Stars&logo=GitHub&affiliations=OWNER%2CCOLLABORATOR)&nbsp;
 ---
 
 <!---
@@ -45,8 +45,8 @@ You can click the Preview link to take a look at your changes.
 
 ---
 <p align="center">
-[![dobkirs's GitHub stats](https://github-readme-stats.vercel.app/api?username=dobkir&show_icons=true&bg_color=65,aff49b,70c956,1c6907&title_color=04548b&text_color=e3f08f&border_radius=10&layout=compact height="160px")](https://github.com/dobkir/)&nbsp;
-[![dobkirs's GitHub most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dobkir&show_icons=true&bg_color=55,70c956,1c6907&title_color=04548b&text_color=e3f08f&border_radius=10&layout=compact height="160px")](https://github.com/dobkir/)
+<img src="https://github-readme-stats.vercel.app/api?username=dobkir&show_icons=true&bg_color=65,aff49b,70c956,1c6907&title_color=04548b&text_color=e3f08f&border_radius=10&layout=compact" height="160px" />&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dobkir&show_icons=true&bg_color=55,70c956,1c6907&title_color=04548b&text_color=e3f08f&border_radius=10&layout=compact" height="160px") />
 </p>
 ---
 
