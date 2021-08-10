@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 --->
 
-## My specialization is Web Development. I live and work in this industry and I am open to cooperation and suggestions.
+## My specialization is Web Development. I am open to cooperation and suggestions.
 ## Tools I use:
 - Main Languages<br>
 [![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=for-the-badge&logo=JavaScript&logoColor=000)](https://javascript.info/)&nbsp;
@@ -46,7 +46,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=dobkir&show_icons=true&bg_color=65,aff49b,70c956,1c6907&title_color=04548b&text_color=e3f08f&border_radius=10&layout=compact" height="160px" />
+<img src="https://github-readme-stats.vercel.app/api?username=dobkir&show_icons=true&bg_color=65,70c956,1c6907&title_color=04548b&text_color=e3f08f&border_radius=10&layout=compact" height="160px" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dobkir&show_icons=true&bg_color=55,70c956,1c6907&title_color=04548b&text_color=e3f08f&border_radius=10&layout=compact" height="160px" />
 </p>
 
