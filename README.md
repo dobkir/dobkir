@@ -63,8 +63,8 @@ You can click the Preview link to take a look at your changes.
 
 ## Repositories
 |Repo-name|LNG CNT|Top Language|Repo-size|Commit in Week|Last commit|
-|:---|:---|:---|:---|:---|:---|
 |Websites without using task runners or frameworks|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |[travel_landing](https://github.com/dobkir/travel_landing)|![count](https://img.shields.io/github/languages/count/dobkir/travel_landing)|![top](https://img.shields.io/github/languages/top/dobkir/travel_landing)|![repo-size](https://img.shields.io/github/repo-size/dobkir/travel_landing)|![commit](https://img.shields.io/github/commit-activity/w/dobkir/travel_landing)|![last-commit](https://img.shields.io/github/last-commit/dobkir/travel_landing)|
 
 
