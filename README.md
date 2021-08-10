@@ -44,11 +44,10 @@ You can click the Preview link to take a look at your changes.
 [![Gulp](https://img.shields.io/badge/Gulp-fa383e?style=for-the-badge&logo=Gulp&logoColor=fff)](https://gulpjs.com/)
 
 ---
-
-## GitHub Stats and Top Languages
-[![dobkirs's GitHub stats](https://github-readme-stats.vercel.app/api?username=dobkir&show_icons=true&bg_color=65,aff49b,70c956,1c6907&title_color=04548b&text_color=e3f08f&border_radius=10&layout=compact)](https://github.com/dobkir/)&nbsp;
-[![dobkirs's GitHub most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dobkir&show_icons=true&bg_color=55,70c956,1c6907&title_color=04548b&text_color=e3f08f&border_radius=10&layout=compact)](https://github.com/dobkir/)
-
+<p align="center">
+[![dobkirs's GitHub stats](https://github-readme-stats.vercel.app/api?username=dobkir&show_icons=true&bg_color=65,aff49b,70c956,1c6907&title_color=04548b&text_color=e3f08f&border_radius=10&layout=compact height="160px")](https://github.com/dobkir/)&nbsp;
+[![dobkirs's GitHub most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dobkir&show_icons=true&bg_color=55,70c956,1c6907&title_color=04548b&text_color=e3f08f&border_radius=10&layout=compact height="160px")](https://github.com/dobkir/)
+</p>
 ---
 
 ## Links
