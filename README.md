@@ -62,9 +62,10 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## Repositories
-|         Websites without using task runners or frameworks         |
+Websites without using task runners or frameworks
 |Repo-name|LNG CNT|Top Language|Repo-size|Commit in Week|Last commit|
 |:-------:|:-----:|:----------:|:-------:|:------------:|:---------:|
 |[travel_landing](https://github.com/dobkir/travel_landing)|![count](https://img.shields.io/github/languages/count/dobkir/travel_landing)|![top](https://img.shields.io/github/languages/top/dobkir/travel_landing)|![repo-size](https://img.shields.io/github/repo-size/dobkir/travel_landing)|![commit](https://img.shields.io/github/commit-activity/w/dobkir/travel_landing)|![last-commit](https://img.shields.io/github/last-commit/dobkir/travel_landing)|
-
+|[promo_bmwX6](https://github.com/dobkir/bmwX6)|![count](https://img.shields.io/github/languages/count/dobkir/bmwX6)|![top](https://img.shields.io/github/languages/top/dobkir/bmwX6)|![repo-size](https://img.shields.io/github/repo-size/dobkir/bmwX6)|![commit](https://img.shields.io/github/commit-activity/w/dobkir/bmwX6)|![last-commit](https://img.shields.io/github/last-commit/dobkir/bmwX6)|
+|[promo_premiere "Venom-2"](https://github.com/dobkir/movie-promo-Venom-2)|![count](https://img.shields.io/github/languages/count/dobkir/movie-promo-Venom-2)|![top](https://img.shields.io/github/languages/top/dobkir/movie-promo-Venom-2)|![repo-size](https://img.shields.io/github/repo-size/dobkir/movie-promo-Venom-2)|![commit](https://img.shields.io/github/commit-activity/w/dobkir/movie-promo-Venom-2)|![last-commit](https://img.shields.io/github/last-commit/dobkir/movie-promo-Venom-2)|
 
