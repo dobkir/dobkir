@@ -25,23 +25,23 @@ You can click the Preview link to take a look at your changes.
 ## Basic skills:
 - Main Languages<br>
 [![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=for-the-badge&logo=JavaScript&logoColor=000)](https://javascript.info/)&nbsp;
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)&nbsp;
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
 
 - Extra skills<br>
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white)](https://jquery.com/)&nbsp;
 [![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=HTML5&logoColor=000)](https://www.w3.org/TR/html52/)&nbsp;
 [![CSS3](https://img.shields.io/badge/CSS3-563d7c?style=for-the-badge&logo=CSS3&logoColor=fff)](https://www.w3.org/Style/CSS/)&nbsp;
-[![Sass](https://img.shields.io/badge/Sass-bf4080?style=for-the-badge&logo=Sass&logoColor=fff)](https://sass-lang.com/)&nbsp;
+[![Sass](https://img.shields.io/badge/Sass-bf4080?style=for-the-badge&logo=Sass&logoColor=fff)](https://sass-lang.com/)
 
 - Libraries, bundlers, work applications<br>
 [![React](https://img.shields.io/badge/React-282c34?style=for-the-badge&logo=React&logoColor=61dafb)](https://reactjs.org/)&nbsp;
 [![Redux](https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=Redux&logoColor=fff)](https://redux.js.org/)&nbsp;
 [![NextJS](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=Next.js&logoColor=fff)](https://nextjs.org/)&nbsp;
-[![NodeJS](https://img.shields.io/badge/Node.js-026e00?style=for-the-badge&logo=Node.js&logoColor=fff)](https://nodejs.org/)&nbsp;
+[![NodeJS](https://img.shields.io/badge/Node.js-026e00?style=for-the-badge&logo=Node.js&logoColor=fff)](https://nodejs.org/)<br>
 [![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=Express&logoColor=fff)](https://expressjs.com/)&nbsp;
 [![MongoDB](https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=MongoDB&logoColor=fff)](https://www.mongodb.com/)&nbsp;
 [![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=fff)](https://webpack.js.org/)&nbsp;
-[![Gulp](https://img.shields.io/badge/Gulp-fa383e?style=for-the-badge&logo=Gulp&logoColor=fff)](https://gulpjs.com/)&nbsp;
+[![Gulp](https://img.shields.io/badge/Gulp-fa383e?style=for-the-badge&logo=Gulp&logoColor=fff)](https://gulpjs.com/)
 
 ---
 
@@ -51,7 +51,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## Top Languages
-[![dobkirs's GitHub most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dobkir&show_icons=true&bg_color=55,70c956,1c6907&title_color=04548b&text_color=e3f08f&border_radius=10)](https://github.com/dobkir/)
+[![dobkirs's GitHub most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dobkir&show_icons=true&bg_color=55,70c956,1c6907&title_color=04548b&text_color=e3f08f&border_radius=10&layout=compact)](https://github.com/dobkir/)
 
 ---
 
