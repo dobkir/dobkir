@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 --->
 
-## My specialization is Web Development. I am open to cooperation and suggestions. Here is my little portfolio.
+## My little portfolio.
 ## Tools I use:
 - Main Languages<br>
 [![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=for-the-badge&logo=JavaScript&logoColor=000)](https://javascript.info/)&nbsp;
