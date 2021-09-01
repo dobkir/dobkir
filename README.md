@@ -31,7 +31,8 @@ You can click the Preview link to take a look at your changes.
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white)](https://jquery.com/)&nbsp;
 [![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=HTML5&logoColor=000)](https://www.w3.org/TR/html52/)&nbsp;
 [![CSS3](https://img.shields.io/badge/CSS3-563d7c?style=for-the-badge&logo=CSS3&logoColor=fff)](https://www.w3.org/Style/CSS/)&nbsp;
-[![Sass](https://img.shields.io/badge/Sass-bf4080?style=for-the-badge&logo=Sass&logoColor=fff)](https://sass-lang.com/)
+[![Sass](https://img.shields.io/badge/Sass-bf4080?style=for-the-badge&logo=Sass&logoColor=fff)](https://sass-lang.com/)&nbsp;
+[![HandlebarsJS](https://img.shields.io/badge/Handlebars-JS-f0772b?style=for-the-badge&logo=Handlebars-JS&logoColor=fff)](https://handlebarsjs.com/)
 
 - Libraries, bundlers, work applications<br>
 [![React](https://img.shields.io/badge/React-282c34?style=for-the-badge&logo=React&logoColor=61dafb)](https://reactjs.org/)&nbsp;
