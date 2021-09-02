@@ -72,6 +72,7 @@ You can click the Preview link to take a look at your changes.
 |Repo-name|Languages count|Top Language|Repo-size|Commits in Month|Last commit|
 |:-------|:-----|:----------|:-------|:------------|:---------|
 |[personal blog html template](https://github.com/dobkir/my_personal_blog_html)|![count](https://img.shields.io/github/languages/count/dobkir/my_personal_blog_html)|![top](https://img.shields.io/github/languages/top/dobkir/my_personal_blog_html)|![repo-size](https://img.shields.io/github/repo-size/dobkir/my_personal_blog_html)|![commit-activity](https://img.shields.io/github/commit-activity/m/dobkir/my_personal_blog_html)|![last-commit](https://img.shields.io/github/last-commit/dobkir/my_personal_blog_html)|
+|[geeknews - news portal html template](https://github.com/dobkir/geeknews)|![count](https://img.shields.io/github/languages/count/dobkir/geeknews)|![top](https://img.shields.io/github/languages/top/dobkir/geeknews)|![repo-size](https://img.shields.io/github/repo-size/dobkir/geeknews)|![commit-activity](https://img.shields.io/github/commit-activity/m/dobkir/geeknews)|![last-commit](https://img.shields.io/github/last-commit/dobkir/geeknews)|
 #### Web Applications based on ReactJS library
 |Repo-name|Languages count|Top Language|Repo-size|Commits in Month|Last commit|
 |:-------|:-----|:----------|:-------|:------------|:---------|
