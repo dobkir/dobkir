@@ -83,4 +83,4 @@ You can click the Preview link to take a look at your changes.
 #### Games
 |Repo-name|Languages count|Top Language|Repo-size|Commits in Month|Last commit|
 |:-------|:-----|:----------|:-------|:------------|:---------|
-|[Arkanoid-online](https://github.com/dobkir/arkanoid-online)|![count](https://img.shields.io/github/languages/count/dobkir/arkanoid-online)|![top](https://img.shields.io/github/languages/top/dobkir/arkanoid-online)|![repo-size](https://img.shields.io/github/repo-size/dobkir/arkanoid-online)|![commit-activity](https://img.shields.io/github/commit-activity/m/dobkir/arkanoid-online)|![last-commit](https://img.shields.io/github/last-commit/dobkir/arkanoid-online)|
+|[Arkanoid](https://github.com/dobkir/arkanoid-online)|![count](https://img.shields.io/github/languages/count/dobkir/arkanoid-online)|![top](https://img.shields.io/github/languages/top/dobkir/arkanoid-online)|![repo-size](https://img.shields.io/github/repo-size/dobkir/arkanoid-online)|![commit-activity](https://img.shields.io/github/commit-activity/m/dobkir/arkanoid-online)|![last-commit](https://img.shields.io/github/last-commit/dobkir/arkanoid-online)|
