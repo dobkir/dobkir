@@ -39,8 +39,6 @@ You can click the Preview link to take a look at your changes.
 [![Redux](https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=Redux&logoColor=fff)](https://redux.js.org/)&nbsp;
 [![NextJS](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=Next.js&logoColor=fff)](https://nextjs.org/)&nbsp;
 [![NodeJS](https://img.shields.io/badge/Node.js-026e00?style=for-the-badge&logo=Node.js&logoColor=fff)](https://nodejs.org/)<br>
-[![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=Express&logoColor=fff)](https://expressjs.com/)&nbsp;
-[![MongoDB](https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=MongoDB&logoColor=fff)](https://www.mongodb.com/)&nbsp;
 [![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=fff)](https://webpack.js.org/)&nbsp;
 [![Gulp](https://img.shields.io/badge/Gulp-fa383e?style=for-the-badge&logo=Gulp&logoColor=fff)](https://gulpjs.com/)
 
