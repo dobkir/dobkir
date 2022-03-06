@@ -55,12 +55,7 @@ You can click the Preview link to take a look at your changes.
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:p.kirillov2020@gmail.com)](mailto:p.kirillov2020@gmail.com)
 
 ---
-<style>
-table th:first-of-type {
-    width: 20%;
-}
-}
-</style>
+
 ## Repositories
 #### Websites without using task runners or frameworks
 |Repo-name|Language count|Main language|Repo-size|Commits in Month|Last commit|
@@ -82,7 +77,7 @@ table th:first-of-type {
 #### JavaSript projects
 |Repo-name|Language count|Main language|Repo-size|Commits in Month|Last commit|
 |:-------|:-----|:----------|:-------|:------------|:---------|
-|[image gallery with Unsplash API](https://github.com/dobkir/image-gallery)|![count](https://img.shields.io/github/languages/count/dobkir/image-gallery)|![top](https://img.shields.io/github/languages/top/dobkir/image-gallery)|![repo-size](https://img.shields.io/github/repo-size/dobkir/image-gallery)|![commit-activity](https://img.shields.io/github/commit-activity/m/dobkir/image-gallery)|![last-commit](https://img.shields.io/github/last-commit/dobkir/image-gallery)|
+|[image gallery with Unsplash image API](https://github.com/dobkir/image-gallery)|![count](https://img.shields.io/github/languages/count/dobkir/image-gallery)|![top](https://img.shields.io/github/languages/top/dobkir/image-gallery)|![repo-size](https://img.shields.io/github/repo-size/dobkir/image-gallery)|![commit-activity](https://img.shields.io/github/commit-activity/m/dobkir/image-gallery)|![last-commit](https://img.shields.io/github/last-commit/dobkir/image-gallery)|
 #### Web Applications based on ReactJS library
 |Repo-name|Language count|Main language|Repo-size|Commits in Month|Last commit|
 |:-------|:-----|:----------|:-------|:------------|:---------|
