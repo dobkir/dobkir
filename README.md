@@ -55,12 +55,17 @@ You can click the Preview link to take a look at your changes.
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:p.kirillov2020@gmail.com)](mailto:p.kirillov2020@gmail.com)
 
 ---
-
+<style>
+table th:first-of-type {
+    width: 20%;
+}
+}
+</style>
 ## Repositories
 #### Websites without using task runners or frameworks
 |Repo-name|Language count|Main language|Repo-size|Commits in Month|Last commit|
 |:-------|:-----|:----------|:-------|:------------|:---------|
-|[clothing store Lomoda](https://github.com/dobkir/lomoda-shop-html){width=20%}|![count](https://img.shields.io/github/languages/count/dobkir/lomoda-shop-html)|![top](https://img.shields.io/github/languages/top/dobkir/lomoda-shop-html)|![repo-size](https://img.shields.io/github/repo-size/dobkir/lomoda-shop-html)|![commit-activity](https://img.shields.io/github/commit-activity/m/dobkir/lomoda-shop-html)|![last-commit](https://img.shields.io/github/last-commit/dobkir/lomoda-shop-html)|
+|[clothing store Lomoda](https://github.com/dobkir/lomoda-shop-html)|![count](https://img.shields.io/github/languages/count/dobkir/lomoda-shop-html)|![top](https://img.shields.io/github/languages/top/dobkir/lomoda-shop-html)|![repo-size](https://img.shields.io/github/repo-size/dobkir/lomoda-shop-html)|![commit-activity](https://img.shields.io/github/commit-activity/m/dobkir/lomoda-shop-html)|![last-commit](https://img.shields.io/github/last-commit/dobkir/lomoda-shop-html)|
 |[CV v1.0](https://github.com/dobkir/my_cv-1)|![count](https://img.shields.io/github/languages/count/dobkir/my_cv-1)|![top](https://img.shields.io/github/languages/top/dobkir/my_cv-1)|![repo-size](https://img.shields.io/github/repo-size/dobkir/my_cv-1)|![commit-activity](https://img.shields.io/github/commit-activity/m/dobkir/my_cv-1)|![last-commit](https://img.shields.io/github/last-commit/dobkir/my_cv-1)|
 |[CV v2.0](https://github.com/dobkir/my_cv-2)|![count](https://img.shields.io/github/languages/count/dobkir/my_cv-2)|![top](https://img.shields.io/github/languages/top/dobkir/my_cv-2)|![repo-size](https://img.shields.io/github/repo-size/dobkir/my_cv-2)|![commit-activity](https://img.shields.io/github/commit-activity/m/dobkir/my_cv-2)|![last-commit](https://img.shields.io/github/last-commit/dobkir/my_cv-2)|
 |[developer landing](https://github.com/dobkir/developer_landing)|![count](https://img.shields.io/github/languages/count/dobkir/developer_landing)|![top](https://img.shields.io/github/languages/top/dobkir/developer_landing)|![repo-size](https://img.shields.io/github/repo-size/dobkir/developer_landing)|![commit-activity](https://img.shields.io/github/commit-activity/m/dobkir/developer_landing)|![last-commit](https://img.shields.io/github/last-commit/dobkir/developer_landing)|
@@ -70,7 +75,7 @@ You can click the Preview link to take a look at your changes.
 |[promo premiere "Venom-2"](https://github.com/dobkir/movie-promo-Venom-2)|![count](https://img.shields.io/github/languages/count/dobkir/movie-promo-Venom-2)|![top](https://img.shields.io/github/languages/top/dobkir/movie-promo-Venom-2)|![repo-size](https://img.shields.io/github/repo-size/dobkir/movie-promo-Venom-2)|![commit-activity](https://img.shields.io/github/commit-activity/m/dobkir/movie-promo-Venom-2)|![last-commit](https://img.shields.io/github/last-commit/dobkir/movie-promo-Venom-2)|
 |[travel landing](https://github.com/dobkir/travel_landing)|![count](https://img.shields.io/github/languages/count/dobkir/travel_landing)|![top](https://img.shields.io/github/languages/top/dobkir/travel_landing)|![repo-size](https://img.shields.io/github/repo-size/dobkir/travel_landing)|![commit-activity](https://img.shields.io/github/commit-activity/m/dobkir/travel_landing)|![last-commit](https://img.shields.io/github/last-commit/dobkir/travel_landing)|
 #### Websites using the Task Runner Gulp
-|Repo-name{width=20%}|Language count|Main language|Repo-size|Commits in Month|Last commit|
+|Repo-name|Language count|Main language|Repo-size|Commits in Month|Last commit|
 |:-------|:-----|:----------|:-------|:------------|:---------|
 |[geeknews - news portal html template](https://github.com/dobkir/geeknews)|![count](https://img.shields.io/github/languages/count/dobkir/geeknews)|![top](https://img.shields.io/github/languages/top/dobkir/geeknews)|![repo-size](https://img.shields.io/github/repo-size/dobkir/geeknews)|![commit-activity](https://img.shields.io/github/commit-activity/m/dobkir/geeknews)|![last-commit](https://img.shields.io/github/last-commit/dobkir/geeknews)|
 |[personal blog html template](https://github.com/dobkir/my_personal_blog_html)|![count](https://img.shields.io/github/languages/count/dobkir/my_personal_blog_html)|![top](https://img.shields.io/github/languages/top/dobkir/my_personal_blog_html)|![repo-size](https://img.shields.io/github/repo-size/dobkir/my_personal_blog_html)|![commit-activity](https://img.shields.io/github/commit-activity/m/dobkir/my_personal_blog_html)|![last-commit](https://img.shields.io/github/last-commit/dobkir/my_personal_blog_html)|
@@ -88,5 +93,5 @@ You can click the Preview link to take a look at your changes.
 #### Games
 |Repo-name|Language count|Main language|Repo-size|Commits in Month|Last commit|
 |:-------|:-----|:----------|:-------|:------------|:---------|
-|[Arkanoid](https://github.com/dobkir/arkanoid-online){width=20%}|![count](https://img.shields.io/github/languages/count/dobkir/arkanoid-online)|![top](https://img.shields.io/github/languages/top/dobkir/arkanoid-online)|![repo-size](https://img.shields.io/github/repo-size/dobkir/arkanoid-online)|![commit-activity](https://img.shields.io/github/commit-activity/m/dobkir/arkanoid-online)|![last-commit](https://img.shields.io/github/last-commit/dobkir/arkanoid-online)|
+|[Arkanoid](https://github.com/dobkir/arkanoid-online)|![count](https://img.shields.io/github/languages/count/dobkir/arkanoid-online)|![top](https://img.shields.io/github/languages/top/dobkir/arkanoid-online)|![repo-size](https://img.shields.io/github/repo-size/dobkir/arkanoid-online)|![commit-activity](https://img.shields.io/github/commit-activity/m/dobkir/arkanoid-online)|![last-commit](https://img.shields.io/github/last-commit/dobkir/arkanoid-online)|
 |[Pong](https://github.com/dobkir/pong)|![count](https://img.shields.io/github/languages/count/dobkir/pong)|![top](https://img.shields.io/github/languages/top/dobkir/pong)|![repo-size](https://img.shields.io/github/repo-size/dobkir/pong)|![commit-activity](https://img.shields.io/github/commit-activity/m/dobkir/pong)|![last-commit](https://img.shields.io/github/last-commit/dobkir/pong)|
