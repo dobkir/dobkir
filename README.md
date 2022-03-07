@@ -78,6 +78,7 @@ You can click the Preview link to take a look at your changes.
 |Repo-name|Language count|Main language|Repo-size|Commits in Month|Last commit|
 |:-------|:-----|:----------|:-------|:------------|:---------|
 |[image gallery with Unsplash image API](https://github.com/dobkir/image-gallery)|![count](https://img.shields.io/github/languages/count/dobkir/image-gallery)|![top](https://img.shields.io/github/languages/top/dobkir/image-gallery)|![repo-size](https://img.shields.io/github/repo-size/dobkir/image-gallery)|![commit-activity](https://img.shields.io/github/commit-activity/m/dobkir/image-gallery)|![last-commit](https://img.shields.io/github/last-commit/dobkir/image-gallery)|
+|[simple video player](https://github.com/dobkir/simple-video-player)|![count](https://img.shields.io/github/languages/count/dobkir/simple-video-player)|![top](https://img.shields.io/github/languages/top/dobkir/simple-video-player)|![repo-size](https://img.shields.io/github/repo-size/dobkir/simple-video-player)|![commit-activity](https://img.shields.io/github/commit-activity/m/dobkir/simple-video-player)|![last-commit](https://img.shields.io/github/last-commit/dobkir/simple-video-player)|
 #### Web Applications based on ReactJS library
 |Repo-name|Language count|Main language|Repo-size|Commits in Month|Last commit|
 |:-------|:-----|:----------|:-------|:------------|:---------|
